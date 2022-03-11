@@ -734,7 +734,7 @@ public class Main{
 // OR
 // PATTERN 20
 
-package com.company;
+/*package com.company;
 
 import java.util.*;
 
@@ -778,7 +778,7 @@ public class Main{
 
 
     }
-}
+}*/
 
 //------------------------------------------------------------------------------------------------
 
@@ -866,7 +866,7 @@ public class Main{
 
 // PATTERN 6
 
-/*package com.company;
+package com.company;
 
 import java.util.*;
 
@@ -912,4 +912,4 @@ public class Main{
 
 
     }
-}*/
+}
